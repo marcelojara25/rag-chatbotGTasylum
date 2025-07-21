@@ -54,7 +54,7 @@ Este proyecto implementa un sistema de **Recuperación Aumentada por Generación
 
 | Pregunta | Respuesta generada |
 |---------|--------------------|
-| ¿Cuántos días puede tardar la resolución de una solicitud? | Hasta 30 días según CONARE, aunque puede extenderse. |
+| ¿Cuántos días puede tardar la resolución de una solicitud? | Hasta 180 días según CONARE, aunque puede extenderse. |
 | ¿Qué documento se presenta para extender el estatus de refugiado? | El Documento Personal de Identidad Especial. |
 | ¿Ante qué autoridad se puede solicitar asilo? | Ante la Subdirección de Protección del Instituto Guatemalteco de Migración o en puestos fronterizos. |
 
