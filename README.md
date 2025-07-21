@@ -64,7 +64,6 @@ Este proyecto implementa un sistema de **Recuperación Aumentada por Generación
 
 - `RAG.ipynb`: Notebook principal con implementación paso a paso.
 - `reglamento_solicitud_refugio_Guatemala.txt`: Texto base legal procesado.
-- `Piloto Chatbot con IA.docx`: Idea conceptual y justificación del piloto.
 
 ---
 
